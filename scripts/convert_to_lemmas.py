@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# virtualenv venv
+# source venv/bin/activate
+# > python3 convert_to_lemmas_json.py brutos/text/versos.csv brutos/indices/pericopes.csv saida.json
 import sys, re, json, argparse, logging
 from typing import List, Dict, Any, Tuple
 import pandas as pd

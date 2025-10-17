@@ -1,0 +1,92 @@
+pericope_id,title,chapter,start_verse,end_verse,order
+P001,"A pregação de João Batista",1,1,8,1
+P002,"O batismo de Jesus",1,9,11,2
+P003,"A tentação de Jesus",1,12,13,3
+P004,"O início do ministério de Jesus na Galileia",1,14,15,4
+P005,"A vocação dos quatro primeiros discípulos",1,16,20,5
+P006,"Jesus expulsa um espírito imundo em Cafarnaum",1,21,28,6
+P007,"A cura da sogra de Pedro e de muitos enfermos",1,29,34,7
+P008,"Jesus se retira para orar",1,35,39,8
+P009,"A cura de um leproso",1,40,45,9
+P010,"A cura de um paralítico em Cafarnaum",2,1,12,1
+P011,"A vocação de Levi e a refeição com pecadores",2,13,17,2
+P012,"A questão do jejum",2,18,22,3
+P013,"Jesus é Senhor do sábado",2,23,28,4
+P014,"A cura do homem da mão ressequida",3,1,6,1
+P015,"A multidão segue Jesus",3,7,12,2
+P016,"A escolha dos doze apóstolos",3,13,19,3
+P017,"A acusação: Ele expulsa demônios por Belzebu",3,20,30,4
+P018,"A verdadeira família de Jesus",3,31,35,5
+P019,"A parábola do semeador",4,1,9,1
+P020,"O propósito das parábolas",4,10,12,2
+P021,"A explicação da parábola do semeador",4,13,20,3
+P022,"A parábola da candeia",4,21,25,4
+P023,"A parábola da semente que cresce",4,26,29,5
+P024,"A parábola do grão de mostarda",4,30,32,6
+P025,"O uso de parábolas por Jesus",4,33,34,7
+P026,"Jesus acalma a tempestade",4,35,41,8
+P027,"O endemoninhado geraseno",5,1,20,1
+P028,"A filha de Jairo e a mulher com fluxo de sangue",5,21,43,2
+P029,"Jesus rejeitado em Nazaré",6,1,6,1
+P030,"A missão dos doze",6,7,13,2
+P031,"A morte de João Batista",6,14,29,3
+P032,"A multiplicação dos pães",6,30,44,4
+P033,"Jesus anda sobre o mar",6,45,52,5
+P034,"Curas em Genesaré",6,53,56,6
+P035,"A tradição dos anciãos e a verdadeira impureza",7,1,13,1
+P036,"O que contamina o homem",7,14,23,2
+P037,"A fé da mulher siro-fenícia",7,24,30,3
+P038,"A cura de um surdo e gago",7,31,37,4
+P039,"A segunda multiplicação dos pães",8,1,10,1
+P040,"O pedido de um sinal",8,11,13,2
+P041,"O fermento dos fariseus e de Herodes",8,14,21,3
+P042,"A cura de um cego em Betsaida",8,22,26,4
+P043,"A confissão de Pedro",8,27,30,5
+P044,"O primeiro anúncio da paixão e o discipulado",8,31,38,6
+P045,"A transfiguração",9,1,8,1
+P046,"A cura do menino endemoninhado",9,9,29,2
+P047,"O segundo anúncio da paixão",9,30,32,3
+P048,"Quem é o maior?",9,33,37,4
+P049,"Quem não é contra nós é por nós",9,38,41,5
+P050,"Advertência contra o escândalo",9,42,50,6
+P051,"A questão do divórcio",10,1,12,1
+P052,"Jesus abençoa as crianças",10,13,16,2
+P053,"O jovem rico",10,17,31,3
+P054,"O terceiro anúncio da paixão",10,32,34,4
+P055,"O pedido dos filhos de Zebedeu",10,35,45,5
+P056,"A cura de Bartimeu",10,46,52,6
+P057,"A entrada triunfal em Jerusalém",11,1,11,1
+P058,"A maldição da figueira e a purificação do templo",11,12,19,2
+P059,"A figueira seca e a fé em Deus",11,20,25,3
+P060,"A autoridade de Jesus questionada",11,27,33,4
+P061,"A parábola dos lavradores maus",12,1,12,1
+P062,"A questão do tributo a César",12,13,17,2
+P063,"A questão da ressurreição",12,18,27,3
+P064,"O grande mandamento",12,28,34,4
+P065,"O Cristo, filho de Davi",12,35,37,5
+P066,"Jesus denuncia os escribas",12,38,40,6
+P067,"A oferta da viúva pobre",12,41,44,7
+P068,"A destruição do templo e os sinais do fim",13,1,13,1
+P069,"O princípio das dores",13,14,23,2
+P070,"A grande tribulação",13,24,27,3
+P071,"A vinda do Filho do Homem",13,28,31,4
+P072,"A parábola da figueira",13,32,37,5
+P073,"A conspiração para matar Jesus",14,1,2,1
+P074,"A unção em Betânia",14,3,9,2
+P075,"A traição de Judas",14,10,11,3
+P076,"A preparação da Páscoa",14,12,16,4
+P077,"A ceia do Senhor",14,17,25,5
+P078,"O anúncio da negação de Pedro",14,26,31,6
+P079,"Jesus no Getsêmani",14,32,42,7
+P080,"A prisão de Jesus",14,43,52,8
+P081,"Jesus perante o Sinédrio",14,53,65,9
+P082,"A negação de Pedro",14,66,72,10
+P083,"Jesus perante Pilatos",15,1,15,1
+P084,"Jesus é condenado e escarnecido",15,16,20,2
+P085,"A crucificação de Jesus",15,21,32,3
+P086,"A morte de Jesus",15,33,41,4
+P087,"O sepultamento de Jesus",15,42,47,5
+P088,"A ressurreição de Jesus",16,1,8,1
+P089,"A aparição a Maria Madalena",16,9,11,2
+P090,"A aparição aos dois discípulos",16,12,13,3
+P091,"A grande comissão",16,14,20,4

@@ -1,0 +1,153 @@
+pericope_id,title,chapter,start_verse,end_verse,order
+P001,A genealogia de Jesus Cristo,1,1,17,1
+P002,O nascimento de Jesus Cristo,1,18,25,2
+P003,A visita dos magos,2,1,12,1
+P004,A fuga para o Egito,2,13,15,2
+P005,A matança dos meninos,2,16,18,3
+P006,O retorno do Egito,2,19,23,4
+P007,A pregação de João Batista,3,1,6,1
+P008,A repreensão de João aos fariseus e saduceus,3,7,12,2
+P009,O batismo de Jesus,3,13,17,3
+P010,A tentação de Jesus,4,1,11,1
+P011,Jesus se estabelece em Cafarnaum,4,12,17,2
+P012,A chamada dos primeiros discípulos,4,18,22,3
+P013,Jesus prega e cura na Galileia,4,23,25,4
+P014,As bem-aventuranças,5,1,12,1
+P015,Sal da terra e luz do mundo,5,13,16,2
+P016,Jesus e o cumprimento da Lei,5,17,20,3
+P017,Contra o homicídio,5,21,26,4
+P018,Contra o adultério,5,27,30,5
+P019,Contra o divórcio,5,31,32,6
+P020,Contra os juramentos,5,33,37,7
+P021,Não resistir ao perverso,5,38,42,8
+P022,Amar os inimigos,5,43,48,9
+P023,Praticar a justiça em segredo: esmolas,6,1,4,1
+P024,A oração em segredo,6,5,8,2
+P025,A oração do Senhor (Pai Nosso),6,9,15,3
+P026,O jejum em segredo,6,16,18,4
+P027,Ajuntar tesouros no céu,6,19,21,5
+P028,Os olhos como lâmpada do corpo,6,22,23,6
+P029,Servir a Deus e não às riquezas,6,24,24,7
+P030,Não andar ansioso,6,25,34,8
+P031,Não julgar,7,1,5,1
+P032,Não lançar pérolas aos porcos,7,6,6,2
+P033,"Pedi, buscai, batei",7,7,12,3
+P034,A porta estreita e a porta larga,7,13,14,4
+P035,Os falsos profetas,7,15,20,5
+P036,O verdadeiro e o falso discípulo,7,21,23,6
+P037,A casa sobre a rocha e sobre a areia,7,24,27,7
+P038,Conclusão do sermão,7,28,29,8
+P039,A purificação do leproso,8,1,4,1
+P040,A fé do centurião,8,5,13,2
+P041,A cura da sogra de Pedro e outros enfermos,8,14,17,3
+P042,O seguimento de Jesus,8,18,22,4
+P043,A tempestade acalmada,8,23,27,5
+P044,Os endemoninhados gadarenos,8,28,34,6
+P045,A cura do paralítico,9,1,8,1
+P046,A vocação de Mateus e os pecadores,9,9,13,2
+P047,A questão do jejum,9,14,17,3
+P048,A filha de Jairo e a mulher com fluxo de sangue,9,18,26,4
+P049,Dois cegos e um mudo endemoninhado,9,27,34,5
+P050,A compaixão de Jesus pelas multidões,9,35,38,6
+P051,A missão dos doze,10,1,4,1
+P052,Instruções para a missão,10,5,15,2
+P053,Perseguições e perseverança,10,16,25,3
+P054,Não temer,10,26,33,4
+P055,Espada e divisão,10,34,39,5
+P056,Recompensa aos que recebem os enviados,10,40,42,6
+P057,João Batista envia mensageiros,11,1,6,1
+P058,Jesus fala sobre João Batista,11,7,15,2
+P059,A incredulidade das cidades,11,16,24,3
+P060,O convite de Jesus aos cansados,11,25,30,4
+P061,As espigas no sábado,12,1,8,1
+P062,A cura do homem da mão ressequida,12,9,14,2
+P063,O servo escolhido de Deus,12,15,21,3
+P064,A blasfêmia contra o Espírito Santo,12,22,32,4
+P065,Árvore e seus frutos; palavras e juízo,12,33,37,5
+P066,O sinal de Jonas,12,38,42,6
+P067,O espírito impuro que volta,12,43,45,7
+P068,A verdadeira família de Jesus,12,46,50,8
+P069,A parábola do semeador,13,1,9,1
+P070,O propósito das parábolas,13,10,17,2
+P071,A explicação da parábola do semeador,13,18,23,3
+P072,A parábola do joio,13,24,30,4
+P073,As parábolas do grão de mostarda e do fermento,13,31,33,5
+P074,O uso de parábolas por Jesus,13,34,35,6
+P075,A explicação da parábola do joio,13,36,43,7
+P076,"As parábolas do tesouro, da pérola e da rede",13,44,50,8
+P077,O escriba instruído no reino dos céus,13,51,52,9
+P078,Jesus rejeitado em Nazaré,13,53,58,10
+P079,A morte de João Batista,14,1,12,1
+P080,A multiplicação dos pães,14,13,21,2
+P081,Jesus anda sobre o mar,14,22,33,3
+P082,Curas em Genesaré,14,34,36,4
+P083,A tradição dos anciãos e a verdadeira impureza,15,1,20,1
+P084,A fé da mulher cananeia,15,21,28,2
+P085,A cura de muitos e a segunda multiplicação dos pães,15,29,39,3
+P086,O pedido de um sinal,16,1,4,1
+P087,O fermento dos fariseus e saduceus,16,5,12,2
+P088,A confissão de Pedro,16,13,20,3
+P089,O primeiro anúncio da paixão e o discipulado,16,21,28,4
+P090,A transfiguração,17,1,8,1
+P091,A cura do menino endemoninhado,17,9,18,2
+P092,O segundo anúncio da paixão,17,19,23,3
+P093,O imposto do templo,17,24,27,4
+P094,Quem é o maior no reino dos céus,18,1,5,1
+P095,Não fazer tropeçar os pequeninos,18,6,9,2
+P096,A parábola da ovelha perdida,18,10,14,3
+P097,A disciplina na comunidade,18,15,20,4
+P098,O perdão ilimitado e o servo incompassivo,18,21,35,5
+P099,A questão do divórcio,19,1,12,1
+P100,Jesus abençoa as crianças,19,13,15,2
+P101,O jovem rico,19,16,22,3
+P102,A recompensa do discipulado,19,23,30,4
+P103,A parábola dos trabalhadores da vinha,20,1,16,1
+P104,O terceiro anúncio da paixão,20,17,19,2
+P105,O pedido da mãe dos filhos de Zebedeu,20,20,28,3
+P106,A cura de dois cegos de Jericó,20,29,34,4
+P107,A entrada triunfal em Jerusalém,21,1,11,1
+P108,A purificação do templo,21,12,17,2
+P109,A figueira sem fruto,21,18,22,3
+P110,A autoridade de Jesus questionada,21,23,27,4
+P111,A parábola dos dois filhos,21,28,32,5
+P112,A parábola dos lavradores maus,21,33,46,6
+P113,A parábola das bodas,22,1,14,1
+P114,A questão do tributo a César,22,15,22,2
+P115,A questão da ressurreição,22,23,33,3
+P116,O grande mandamento,22,34,40,4
+P117,"O Cristo, filho de Davi",22,41,46,5
+P118,Jesus denuncia os escribas e fariseus,23,1,12,1
+P119,As sete acusações contra os fariseus,23,13,36,2
+P120,Lamento sobre Jerusalém,23,37,39,3
+P121,Jesus prediz a destruição do templo,24,1,2,1
+P122,O princípio das dores,24,3,14,2
+P123,A grande tribulação,24,15,28,3
+P124,A vinda do Filho do Homem,24,29,31,4
+P125,A parábola da figueira,24,32,35,5
+P126,Vigiai,24,36,44,6
+P127,O servo fiel e o infiel,24,45,51,7
+P128,A parábola das dez virgens,25,1,13,1
+P129,A parábola dos talentos,25,14,30,2
+P130,O julgamento das nações,25,31,46,3
+P131,O plano para matar Jesus,26,1,5,1
+P132,A unção em Betânia,26,6,13,2
+P133,A traição de Judas,26,14,16,3
+P134,A preparação da Páscoa,26,17,19,4
+P135,A ceia do Senhor,26,20,30,5
+P136,O anúncio da negação de Pedro,26,31,35,6
+P137,Jesus no Getsêmani,26,36,46,7
+P138,A prisão de Jesus,26,47,56,8
+P139,Jesus perante o Sinédrio,26,57,68,9
+P140,A negação de Pedro,26,69,75,10
+P141,Jesus perante Pilatos,27,1,2,1
+P142,A morte de Judas,27,3,10,2
+P143,Jesus questionado por Pilatos,27,11,14,3
+P144,Jesus sentenciado à morte,27,15,26,4
+P145,Os soldados zombam de Jesus,27,27,31,5
+P146,A crucificação de Jesus,27,32,44,6
+P147,A morte de Jesus,27,45,56,7
+P148,O sepultamento de Jesus,27,57,61,8
+P149,A guarda do sepulcro,27,62,66,9
+P150,A ressurreição de Jesus,28,1,10,1
+P151,A mentira dos guardas,28,11,15,2
+P152,A grande comissão,28,16,20,3
